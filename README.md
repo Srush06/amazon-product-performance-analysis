@@ -229,7 +229,7 @@ Overall, the analysis shows that technology-related categories have a strong pre
 # 📁 Project Files
 
 - `Amazon_Product_Performance_Analysis.ipynb` – Python data cleaning and exploratory data analysis
-- `Screenshot 2026-08-19 211517.png` – Power BI dashboard
+- `amazon-product-performance-dashboard.png` – Power BI dashboard
 - `README.md` – Project documentation
 
 ---
